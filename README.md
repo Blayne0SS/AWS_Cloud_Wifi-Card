@@ -1,3 +1,22 @@
+The following application is being altered to achieve the goals set out in Assignment 2 for CAB432 Cloud Computing
+This will focus on incorporating a Amazon LLM while using Amazons cloud service to do the following
+1.Check code quality and build status
+   Run defined formatting, build, and available automated tests. Explain failures and identify the relevant files.
+   
+2.Triage GitHub issues
+   Categories new issues, suggest their priority, identify possible duplicates, and apply appropriate labels.
+
+3.Summaries and investigate individual issues
+   summarise the reported problem, reproduction steps, expected behaviour, and missing information. Retrieve relevant repository    context and comment with findings.
+
+4.Maintain organised documentation
+   Identify missing or outdated information, propose a focused correction, and create a documentation pull request.
+
+5.Produce a project overview and maintenance digest 
+   Explain the project’s purpose and structure, summarise outstanding issues, report the latest check results, and recommend       next actions. Run this periodically.
+
+
+
 ![ci](https://github.com/bndw/wifi-card/workflows/ci/badge.svg)
 
 # <img width="32px" src="./public/images/wifi.png"> WiFi Card
