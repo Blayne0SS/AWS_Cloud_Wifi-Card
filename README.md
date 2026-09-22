@@ -1,5 +1,6 @@
 The following application is being altered to achieve the goals set out in Assignment 2 for CAB432 Cloud Computing
-This will focus on incorporating a Amazon LLM while using Amazons cloud service to do the following
+This will focus on incorporating a Amazon LLM while using Amazons cloud service to do the following:
+
 1.Check code quality and build status
    Run defined formatting, build, and available automated tests. Explain failures and identify the relevant files.
    
